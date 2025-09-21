@@ -16,5 +16,4 @@ Effective inventory and sales management are critical for optimizing profitabili
 
 
 ## Work Flow
-
-![Overview](https://github.com/user-attachments/assets/8e9561f6-5c69-4b1c-9ba9-5e28c8b93548)
+![Overview](https://github.com/user-attachments/assets/24db75a1-ccf0-4603-9b77-5dbfcc925e37)
