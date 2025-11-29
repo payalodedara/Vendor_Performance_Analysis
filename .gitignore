@@ -4,3 +4,4 @@ data/sales.csv
 *.log
 __pycache__/
 .ipynb_checkpoints/
+logs/
