@@ -20,5 +20,3 @@ def get_engine():
         f"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}"
     )
 
-
-print('connection build')
