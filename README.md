@@ -14,6 +14,3 @@ Effective inventory and sales management are critical for optimizing profitabili
 
 5. Investigate the profitability variance between high-performing and low-performing vendors.
 
-
-## Work Flow
-![Overview](https://github.com/user-attachments/assets/24db75a1-ccf0-4603-9b77-5dbfcc925e37)
